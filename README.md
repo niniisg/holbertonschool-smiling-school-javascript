@@ -73,5 +73,6 @@ The Holberton Smiling School web pages were developed by sections using the Boot
 [Footer](https://github.com/jzamora5/holberton-smiling-school/blob/master/courses.html)
 
 # Author:
+Nissel Sanchez: [niniisg](https://github.com/niniisg)
 
 Jhoan Zamora: [jzamora5](https://github.com/jzamora5)
